@@ -13,4 +13,5 @@ to analyze public marketplace data for internal market research purposes.
 - No scraping or automated crawling of Etsy webpages
 
 ## Contact
-your-email@example.com
+Maintained by the repository owner.
+
